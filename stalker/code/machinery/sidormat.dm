@@ -153,6 +153,7 @@ GLOBAL_LIST_INIT(global_sidormat_list, list(
 
 
 	"Suits" = list(
+		new /datum/data/stalker_equipment("Tan Longcoat",				"Tan Longcoat",			    /obj/item/clothing/suit/kozhanka/longcoat					5000,		ROOKIE,initial_stock = PISTOL_AMOUNT),
 		new /datum/data/stalker_equipment("Leather Jacket",				"Leather Jacket",			/obj/item/clothing/suit/hooded/kozhanka,					5000,		ROOKIE,initial_stock = PISTOL_AMOUNT),
 		new /datum/data/stalker_equipment("White Leather Jacket",		"White Leather Jacket",		/obj/item/clothing/suit/hooded/kozhanka/white,				5000,		ROOKIE,initial_stock = PISTOL_AMOUNT),
 		new /datum/data/stalker_equipment("Armored Tan Coat",			"Armored Tan Coat",			/obj/item/clothing/suit/hooded/kozhanka/tancoat,			15000,		ROOKIE,initial_stock = PISTOL_AMOUNT),
